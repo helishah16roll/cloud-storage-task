@@ -5,6 +5,9 @@ This repository contains proof of my cloud storage setup.
 - Bucket created: ✅
 - Files uploaded: ✅
 - Public access configured: ✅
+- 📂 Public File Link (Object URL):  
+[Click here to view file]
+task1: s3://example-storage-bucket-xyz/Soft and Delicate.docx
 
 Screenshots included:
 - Bucket list
